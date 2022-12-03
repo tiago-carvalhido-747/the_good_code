@@ -1,0 +1,17 @@
+.container {
+}
+
+.table-container {
+  padding-top: 40px;
+}
+.add-container {
+  padding: 20px 20px 10px 0px;
+}
+.add-button {
+  float: right;
+}
+
+.delete-button {
+  float: right;
+  margin-right: 10px;
+}
